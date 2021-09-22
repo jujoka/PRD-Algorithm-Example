@@ -11,3 +11,5 @@ Run the program, input your choice for what probability to simulate and input th
 The program will print the incrementing probability of the event based on failed attempts provided by the algorithm (0-1), 
 the roll (0-1) and any successful events. After the simulation is finished more information will be printed like average 
 attempts until success and actual probability of the event based on the simulation (successes / attempts).
+
+**NOTE: User input is not sanitized**
