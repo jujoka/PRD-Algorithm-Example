@@ -2,6 +2,7 @@
 Pseudo-random number generation algorithm commonly used for competitive games that include RNG based mechanics like critical strikes
 
 Explanations of the algorithm can be found here:
+
 https://www.fatalerrors.org/a/prd-critical-hit-algorithm-of-the-common-pseudo-random-algorithm-in-the-game.html
 https://dota2.fandom.com/wiki/Random_distribution#Definition
 
