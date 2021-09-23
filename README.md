@@ -13,3 +13,7 @@ the roll (0-1) and any successful events. After the simulation is finished more 
 attempts until success and actual probability of the event based on the simulation (successes / attempts).
 
 **NOTE: User input is not sanitized**
+
+**For Dota 2 players**: the algorithm is working correctly for high chance events like MKB (80%), however the game actually rolls
+for the chance of failure instead of success, so in the case of MKB every attack will proc the effect unless a 20% PRNG roll would
+result in a success.
