@@ -4,6 +4,7 @@ Pseudo-random number generation algorithm commonly used for competitive games th
 Explanations of the algorithm can be found here:
 
 https://www.fatalerrors.org/a/prd-critical-hit-algorithm-of-the-common-pseudo-random-algorithm-in-the-game.html
+
 https://dota2.fandom.com/wiki/Random_distribution#Definition
 
 How to use:
